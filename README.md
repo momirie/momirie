@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Mohamed Mirie. Computer Science at Brunel, software engineering placement at Accenture. I build tools that try to break code before users do." src="assets/banner-light.svg" width="100%">
+  <img alt="Mohamed Mire. Computer Science at Brunel, software engineering placement at Accenture. I build tools that try to break code before users do." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
